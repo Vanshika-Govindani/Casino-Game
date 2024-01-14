@@ -1,6 +1,6 @@
 # Casino number game
 
-BACCARAT - Casino Number Game
+Casino Number Game
 
 
 Player chooses between two sides either
